@@ -1,0 +1,19 @@
+{
+  "name": "smtp-verify",
+  "version": "1.0.0",
+  "description": "NodeJS SMTP email verifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasanthaHennayake/node-smtp-verify.git"
+  },
+  "author": "Yasantha Hennayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasanthaHennayake/node-smtp-verify/issues"
+  },
+  "homepage": "https://github.com/YasanthaHennayake/node-smtp-verify#readme"
+}
